@@ -1,1 +1,2 @@
-print("Hello")
+x = int(input())
+print('%X'%x)
